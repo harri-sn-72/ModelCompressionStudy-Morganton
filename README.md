@@ -34,7 +34,7 @@ This repository contains the complete code, data, and figures for the research p
 
 ---
 
-## 🔬 Experimental Setup
+## Experimental Setup
 
 ### Datasets
 - **MNIST**: 60,000 training / 10,000 test images (28×28 grayscale digits)
@@ -58,7 +58,7 @@ This repository contains the complete code, data, and figures for the research p
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Platform Performance Comparison
 
@@ -86,7 +86,7 @@ This repository contains the complete code, data, and figures for the research p
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ### Core Dependencies
 ```
@@ -101,7 +101,7 @@ jupyter>=1.0.0
 ```
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Colab** for providing free cloud GPU resources
 - **PyTorch team** for the excellent deep learning framework
@@ -112,7 +112,7 @@ jupyter>=1.0.0
 
 ---
 
-## 🐛 Known Issues / Limitations
+## Known Issues / Limitations
 
 1. **Intel Arc GPU not utilized**: Experiments ran on CPU backend with potential NPU acceleration. Direct XPU usage may show different results.
 
